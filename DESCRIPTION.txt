@@ -1,0 +1,7 @@
+Title: pigeontools package
+
+A bunch of functions made by Aaron Bergman
+
+Whatever license is standard or, if none is standard, the most common one.
+
+Dependencies: lots
